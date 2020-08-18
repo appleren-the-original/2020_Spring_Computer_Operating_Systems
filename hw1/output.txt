@@ -1,0 +1,16 @@
+alperen@alp-Dell-Inspiron-ubuntu:~/Desktop/Operating Systems$ gcc cos_hw1_q2_v2.c -o hw1_v2
+alperen@alp-Dell-Inspiron-ubuntu:~/Desktop/Operating Systems$ ./hw1_v2 
+<8851, [], 3>
+<8853, [], 4>
+<8852, [8853], 3>
+<8850, [8851, 8852], 2>
+<8855, [], 3>
+<8858, [], 4>
+<8857, [8858], 3>
+<8854, [8855, 8857], 2>
+<8860, [], 3>
+<8862, [], 4>
+<8861, [8862], 3>
+<8859, [8860, 8861], 2>
+<8849, [8850, 8854, 8859], 1>
+alperen@alp-Dell-Inspiron-ubuntu:~/Desktop/Operating Systems$ 

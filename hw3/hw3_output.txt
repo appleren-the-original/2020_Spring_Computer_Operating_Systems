@@ -1,0 +1,83 @@
+Master process: current money is 0
+Increaser Process 0: Current money is 10
+Increaser Process 1: Current money is 25
+Increaser Process 2: Current money is 35
+Increaser Process 3: Current money is 50, Increaser Processes finished their turn 1
+Increaser Process 3: Current money is 65
+Increaser Process 0: Current money is 75
+Increaser Process 1: Current money is 90
+Increaser Process 2: Current money is 100, Increaser Processes finished their turn 2
+Increaser Process 2: Current money is 110
+Increaser Process 3: Current money is 125
+Increaser Process 0: Current money is 135
+Increaser Process 1: Current money is 150, Increaser Processes finished their turn 3
+Increaser Process 1: Current money is 165
+Increaser Process 2: Current money is 175
+Increaser Process 3: Current money is 190
+Increaser Process 0: Current money is 200, Increaser Processes finished their turn 4
+
+Decreaser Process 0: Current money is 199 (1th fibonacci number for decreaser 0), Decreaser Processes finished their turn 1
+Decreaser Process 1: Current money is 198 (1th fibonacci number for decreaser 1), Decreaser Processes finished their turn 2
+Decreaser Process 0: Current money is 197 (2th fibonacci number for decreaser 0), Decreaser Processes finished their turn 3
+Decreaser Process 1: Current money is 196 (2th fibonacci number for decreaser 1), Decreaser Processes finished their turn 4
+
+Increaser Process 1: Current money is 211
+Increaser Process 0: Current money is 221
+Increaser Process 3: Current money is 236
+Increaser Process 2: Current money is 246, Increaser Processes finished their turn 5
+Increaser Process 2: Current money is 256
+Increaser Process 1: Current money is 271
+Increaser Process 0: Current money is 281
+Increaser Process 3: Current money is 296, Increaser Processes finished their turn 6
+
+Decreaser Process 0: Current money is 294 (3th fibonacci number for decreaser 0), Decreaser Processes finished their turn 5
+Decreaser Process 0: Current money is 291 (4th fibonacci number for decreaser 0)
+Decreaser Process 1: Current money is 289 (3th fibonacci number for decreaser 1), Decreaser Processes finished their turn 6
+Decreaser Process 1: Current money is 286 (4th fibonacci number for decreaser 1)
+Decreaser Process 0: Current money is 281 (5th fibonacci number for decreaser 0), Decreaser Processes finished their turn 7
+Decreaser Process 1: Current money is 276 (5th fibonacci number for decreaser 1), Decreaser Processes finished their turn 8
+
+Increaser Process 2: Current money is 286
+Increaser Process 0: Current money is 296
+Increaser Process 1: Current money is 311
+Increaser Process 3: Current money is 326, Increaser Processes finished their turn 7
+Increaser Process 3: Current money is 341
+Increaser Process 2: Current money is 351
+Increaser Process 0: Current money is 361
+Increaser Process 1: Current money is 376, Increaser Processes finished their turn 8
+
+Decreaser Process 0: Current money is 368 (6th fibonacci number for decreaser 0)
+, Decreaser Processes finished their turn 9
+Decreaser Process 0: Current money is 355 (7th fibonacci number for decreaser 0), Decreaser Processes finished their turn 10
+Decreaser Process 1: Current money is 347 (6th fibonacci number for decreaser 1), Decreaser Processes finished their turn 11
+Decreaser Process 1: Current money is 334 (7th fibonacci number for decreaser 1)
+Decreaser Process 0: Current money is 313 (8th fibonacci number for decreaser 0), Decreaser Processes finished their turn 12
+
+Increaser Process 0: Current money is 323
+Increaser Process 2: Current money is 333
+Increaser Process 3: Current money is 348
+Increaser Process 1: Current money is 363, Increaser Processes finished their turn 9
+Increaser Process 1: Current money is 378
+Increaser Process 0: Current money is 388
+Increaser Process 2: Current money is 398
+Increaser Process 3: Current money is 413, Increaser Processes finished their turn 10
+
+Decreaser Process 1: Current money is 392 (8th fibonacci number for decreaser 1)
+Decreaser Process 0: Current money is 358 (9th fibonacci number for decreaser 0), Decreaser Processes finished their turn 13
+Decreaser Process 0: Current money is 303 (10th fibonacci number for decreaser 0)
+Decreaser Process 1: Current money is 269 (9th fibonacci number for decreaser 1), Decreaser Processes finished their turn 14
+Decreaser Process 1: Current money is 214 (10th fibonacci number for decreaser 1)
+Decreaser Process 0: Current money is 125 (11th fibonacci number for decreaser 0), Decreaser Processes finished their turn 15
+Decreaser Process 1: Current money is 36 (11th fibonacci number for decreaser 1), Decreaser Processes finished their turn 16
+
+Increaser Process 3: Current money is 51
+Increaser Process 0: Current money is 61
+Increaser Process 1: Current money is 76
+Increaser Process 2: Current money is 86, Increaser Processes finished their turn 11
+Increaser Process 2: Current money is 96
+Increaser Process 3: Current money is 111
+Increaser Process 0: Current money is 121
+Increaser Process 1: Current money is 136, Increaser Processes finished their turn 12
+
+Decreaser Process 0: Current money is less than 144, signaling master to finish (12th fibonacci number for decreaser 0)
+Master Process: Killing all children and terminating the program
